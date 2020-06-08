@@ -13,6 +13,7 @@ end
 roll_call_dwarves(dwarves)
 
 def summon_captain_planet(array)
+  nu_array = []
   
 end
 
