@@ -24,8 +24,8 @@ end
 
 summon_captain_planet(planeteer_calls)
 
-def long_planeteer_calls
-  i = 0 
+def long_planeteer_calls(array)
+  i = 0
 end
 
 def find_the_cheese# code an argument here
