@@ -3,7 +3,8 @@ planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 call_screams = ["bo", "bam", "boom", "bazam", "powzer"]
 
 def roll_call_dwarves(array)
-  i = 1 
+  i = 0
+  
 end
 
 def summon_captain_planet# code an argument here
